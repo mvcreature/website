@@ -714,7 +714,7 @@ h4{
 width: 129px;
 height: 35px;
 left: 1704px;
-top: 160px;
+top: 150px;
 
 font-family: Montserrat;
 font-style: normal;
@@ -1024,4 +1024,171 @@ left: 1312px;
 top: 241px;
 
 border: 1px solid #000000;
+}
+.line-12{
+  position: absolute;
+  width: 242px;
+  height: 0px;
+  left: 1704px;
+  top: 241px;
+  border: 1px solid #000000;
+}
+.line-13{
+  position: absolute;
+  width: 242px;
+  height: 0px;
+  left: 2096px;
+  top: 241px;
+
+  border: 1px solid #000000;
+
+}
+.textbutton{
+  position: fixed;
+  width: 150px;
+  height: 25px;
+  left: 85px;
+  top: 35px;
+border: 1px solid #000000;
+
+border-radius: 50px 50px 50px 50px;
+background: #F8F7F7;
+display: block;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+align-items: center;
+text-align: center;
+
+
+color: #000000;
+}
+.textbutton-2{
+  position: fixed;
+  width: 150px;
+  height: 25px;
+border: 1px solid #000000;
+left: 85px;
+top: 65px;
+border-radius: 50px 50px 50px 50px;
+background: #F8F7F7;
+display: block;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+align-items: center;
+text-align: center;
+
+
+color: #000000;
+
+}
+.textbutton-3{
+  position: fixed;
+  width: 150px;
+  height: 25px;
+border: 1px solid #000000;
+left: 85px;
+top: 95px;
+border-radius: 50px 50px 50px 50px;
+background: #F8F7F7;
+display: block;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+align-items: center;
+text-align: center;
+
+
+color: #000000;
+}
+.textbutton-4{
+  position: fixed;
+  width: 150px;
+  height: 25px;
+border: 1px solid #000000;
+left: 85px;
+top: 125px;
+border-radius: 50px 50px 50px 50px;
+background: #F8F7F7;
+display: block;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+align-items: center;
+text-align: center;
+
+
+color: #000000;
+}
+
+.textbutton:hover{
+  background:  black;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  align-items: center;
+  text-align: center;
+  color: white;
+
+
+}
+.textbutton-2:hover{
+  background:  black;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  align-items: center;
+  text-align: center;
+  color: white;
+
+
+}
+.textbutton-3:hover{
+  background:  black;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  align-items: center;
+  text-align: center;
+  color: white;
+
+
+}
+.textbutton-4:hover{
+  background:  black;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  align-items: center;
+  text-align: center;
+  color: white;
+
+
+}
+.boxx{
+  position: fixed;
+  width: 25px;
+  height: 800px;
+left: 0px;
+top: 65px;
+background: black;
+z-index: 1;
+}
+.boxxx{
+  position: fixed;
+  width: 25px;
+  height: 800px;
+right:0px;
+top: 65px;
+background: black;
+z-index: 1;
 }
