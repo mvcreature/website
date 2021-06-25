@@ -1,0 +1,260 @@
+::-webkit-scrollbar{width:25px;height:25px;}
+::-webkit-scrollbar-button{width:25px;height:25px;}
+.menu{
+  position: fixed;
+  width: 261px;
+  height: 140px;
+  left: 25px;
+  top: 25px;
+right: 25px;
+}
+.border{
+  position: fixed;
+  width: 1029px;
+  height: 140px;
+  left: 311px;
+  top: 25px;
+
+  border: 2px solid #FFFFFF;
+  box-sizing: border-box;
+  border-radius: 0px 100px 0px 0px;
+}
+.radius{
+  position: fixed;
+  width: 1315px;
+  height: 415px;
+  left: 25px;
+  top: 185px;
+  border-radius: 0px 0 50px 150px;
+  right: 25px;
+
+
+
+background: #F8F7F7;
+}
+h1{
+  position: fixed;
+width: 424px;
+height: 129px;
+left: 380px;
+top: 5px;
+
+font-family: Ambidexter;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 129px;
+
+color: #FFFFFF;
+}
+.футболка{
+  position: absolute;
+  width: 241px;
+  height: 241px;
+  left: 90px;
+  top: 35px;
+}
+.кассета{
+  position: absolute;
+width: 241px;
+height: 241px;
+left: 410px;
+top: 35px;
+
+}
+.диск{
+  position: absolute;
+width: 241px;
+height: 241px;
+left: 730px;
+top: 35px;
+}
+p{
+  position: absolute;
+width: 407px;
+height: 33px;
+left: 90px;
+top: 270px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+color: #000000;
+}
+.цена-ф{
+  position: absolute;
+width: 74px;
+height: 32px;
+left: 90px;
+top: 300px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #4100FA;
+}
+.кассета-2{
+  position: absolute;
+width: 310px;
+height: 33px;
+left: 410px;
+top: 270px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+}
+.цена-к{
+  position: absolute;
+width: 83px;
+height: 31px;
+left: 410px;
+top: 300px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #4100FA;
+}
+.диск-2{
+  position: absolute;
+width: 310px;
+height: 33px;
+left: 730px;
+top: 270px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+}
+.цена-д{
+  position: absolute;
+width: 65px;
+height: 32px;
+left: 730px;
+top: 300px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #4100FA;
+}
+.стикер{
+  position: absolute;
+width: 241px;
+height: 241px;
+left: 1050px;
+top: 35px;
+
+}
+.стикер-2{
+  position: absolute;
+width: 310px;
+height: 36px;
+left: 1050px;
+top: 270px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+}
+.цена-с{
+  position: absolute;
+width: 65px;
+height: 32px;
+left: 1050px;
+top: 300px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #4100FA;
+}
+.шлем{
+  position: absolute;
+  width: 241px;
+  height: 241px;
+  left: 1354px;
+  top: 35px;
+
+}
+.книга{
+  position: absolute;
+width: 241px;
+height: 241px;
+left: 1651px;
+top: 235px;
+
+}
+.шлем-2{
+  position: absolute;
+width: 310px;
+height: 36px;
+left: 1354px;
+top: 476px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+}
+.цена-ш{
+  position: absolute;
+width: 65px;
+height: 32px;
+left: 1651px;
+top: 509px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #4100FA;
+}
+.книга-2{
+  position: absolute;
+width: 310px;
+height: 36px;
+left: 1641px;
+top: 478px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+overflow-x: scroll;
+}

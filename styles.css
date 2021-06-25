@@ -1,0 +1,1027 @@
+/* ::-webkit-scrollbar{width:2px;height:2px;}
+::-webkit-scrollbar-button{width:2px;height:2px;}
+::-webkit-scrollbar-track{background: #4100FA} */
+
+.menu{
+  position: fixed;
+  width: 261px;
+  height: 140px;
+  left: 25px;
+  top: 25px;
+right: 25px;
+}
+.border{
+  position: fixed;
+  width: 1029px;
+  height: 140px;
+  left: 311px;
+  top: 25px;
+
+  border: 2px solid #FFFFFF;
+  box-sizing: border-box;
+  border-radius: 0px 100px 0px 0px;
+}
+.radius{
+  position: fixed;
+  width: 1315px;
+  height: 415px;
+  left: 25px;
+  top: 185px;
+  border-radius: 0px 0 50px 150px;
+  right: 25px;
+
+
+
+background: #F8F7F7;
+}
+h1{
+  position: fixed;
+width: 424px;
+height: 129px;
+left: 380px;
+top: 5px;
+
+font-family: Ambidexter;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 129px;
+
+color: #FFFFFF;
+}
+h2{
+  position: absolute;
+width: 110px;
+height: 21px;
+left: 156px;
+top: 165px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 44px;
+
+color: #000000;
+}
+p{
+  position: absolute;
+  width: 131px;
+  height: 21px;
+  left: 156px;
+  top: 240px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
+.line{
+  position: absolute;
+width: 242px;
+height: 0px;
+left: 156px;
+top: 242px;
+
+border: 1px solid #000000;
+}
+p2{
+  position: absolute;
+  width: 242px;
+  height: 17px;
+  left: 156px;
+  top: 289px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+
+  color: #000000;
+}
+p3{
+  position: absolute;
+  width: 221px;
+  height: 20px;
+  left: 155px;
+  top: 311px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #A7A7A7;
+}
+p4{
+  position: absolute;
+  width: 148px;
+  height: 16px;
+  left: 156px;
+  top: 326px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #A7A7A7;
+}
+.button-1{
+  position: absolute;
+  width: 241px;
+  height: 30px;
+  left: 156px;
+  top: 350px;
+
+
+}
+.line-2{
+  position: absolute;
+width: 242px;
+height: 0px;
+left: 156px;
+top: 410px;
+
+border: 1px solid #000000;
+}
+p5{
+  position: absolute;
+width: 131px;
+height: 21px;
+left: 156px;
+top: 428px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+p6{
+  position: absolute;
+width: 242px;
+height: 17px;
+left: 156px;
+top: 457px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+}
+p7{
+  position: absolute;
+width: 148px;
+height: 16px;
+left: 156px;
+top: 480px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #A7A7A7;
+}
+p8{
+  position: absolute;
+width: 148px;
+height: 16px;
+left: 156px;
+top: 495px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #A7A7A7;
+}
+.button-2{
+  position: absolute;
+width: 241px;
+height: 30px;
+left: 156px;
+top: 521px;
+}
+.line-3{
+  position: absolute;
+width: 242px;
+height: 0px;
+left: 548px;
+top: 242px;
+
+border: 1px solid #000000;
+}
+.line-4{
+  position: absolute;
+width: 242px;
+height: 0px;
+left: 548px;
+top: 410px;
+
+border: 1px solid #000000;
+}
+p10{
+  position: absolute;
+  width: 131px;
+  height: 21px;
+  left: 548px;
+  top: 260px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
+p11{
+  position: absolute;
+width: 242px;
+height: 17px;
+left: 548px;
+top: 289px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+p12{
+  position: absolute;
+width: 221px;
+height: 20px;
+left: 548px;
+top: 311px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #A7A7A7;
+}
+p13{
+  position: absolute;
+width: 148px;
+height: 16px;
+left: 548px;
+top: 326px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #A7A7A7;
+}
+.button-3{
+  position: absolute;
+  width: 241px;
+  height: 30px;
+  left: 548px;
+  top: 350px;
+}
+p14{
+  position: absolute;
+width: 242px;
+height: 17px;
+left: 548px;
+top: 428px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+}
+p15{
+  position: absolute;
+width: 242px;
+height: 17px;
+left: 548px;
+top: 457px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+}
+p16{
+  position: absolute;
+width: 221px;
+height: 20px;
+left: 547px;
+top: 480px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #A7A7A7;
+}
+p17{
+  position: absolute;
+width: 148px;
+height: 16px;
+left: 547px;
+top: 495px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #A7A7A7;
+}
+.button-4{
+  position: absolute;
+  width: 241px;
+  height: 30px;
+  left: 548px;
+  top: 521px;
+}
+  h3{
+    position: absolute;
+  width: 110px;
+  height: 35px;
+  left: 938px;
+  top: 160px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 44px;
+
+  color: #000000;
+  }
+.line-5{
+  position: absolute;
+width: 242px;
+height: 0px;
+left: 938px;
+top: 242px;
+
+border: 1px solid #000000;
+}
+.line-6{
+  position: absolute;
+width: 242px;
+height: 0px;
+left: 938px;
+top: 410px;
+
+border: 1px solid #000000;
+}
+p18{
+  position: absolute;
+width: 131px;
+height: 21px;
+left: 938px;
+top: 260px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+}
+p19{
+  position: absolute;
+width: 242px;
+height: 17px;
+left: 938px;
+top: 289px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+}
+p20{
+  position: absolute;
+width: 221px;
+height: 20px;
+left: 938px;
+top: 311px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #A7A7A7;
+
+}
+p21{
+  position: absolute;
+width: 148px;
+height: 16px;
+left: 938px;
+top: 326px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #A7A7A7;
+}
+.button-5{
+  position: absolute;
+width: 241px;
+height: 30px;
+left: 938px;
+top: 350px;
+}
+.line-7{
+  position: absolute;
+width: 242px;
+height: 0px;
+left: 1312px;
+top: 241px;
+
+border: 1px solid #000000;
+}
+p22{
+  position: absolute;
+  width: 131px;
+  height: 21px;
+  left: 938px;
+  top: 428px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
+p23{
+  position: absolute;
+  width: 242px;
+  height: 17px;
+  left: 938px;
+  top: 457px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+
+  color: #000000;
+}
+p24{
+  position: absolute;
+  width: 221px;
+  height: 20px;
+  left: 938px;
+  top: 480px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #A7A7A7;
+}
+p25{
+  position: absolute;
+width: 148px;
+height: 16px;
+left: 938px;
+top: 495px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #A7A7A7;
+}
+.button-6{
+  position: absolute;
+width: 241px;
+height: 30px;
+left: 938px;
+top: 521px;
+}
+p26{
+  position: absolute;
+width: 131px;
+height: 21px;
+left: 1312px;
+top: 260px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+p27{
+  position: absolute;
+width: 242px;
+height: 17px;
+left: 1312px;
+top: 289px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+}
+p28{
+  position: absolute;
+width: 221px;
+height: 20px;
+left: 1312px;
+top: 311px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #A7A7A7;
+
+}
+p29{
+  position: absolute;
+width: 148px;
+height: 16px;
+left: 1312px;
+top: 326px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #A7A7A7;
+
+}
+.button-7{
+  position: absolute;
+width: 241px;
+height: 30px;
+left: 1312px;
+top: 350px;
+
+}
+.line-7{
+  position: absolute;
+width: 242px;
+height: 0px;
+left: 1312px;
+top: 406px;
+
+border: 1px solid #000000;
+}
+p30{
+  position: absolute;
+width: 131px;
+height: 21px;
+left: 1312px;
+top: 428px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+p31{
+  position: absolute;
+width: 242px;
+height: 17px;
+left: 1312px;
+top: 457px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+
+color: #000000;
+}
+p32{
+  position: absolute;
+width: 221px;
+height: 20px;
+left: 1311px;
+top: 480px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #A7A7A7;
+}
+p33{
+  position: absolute;
+width: 148px;
+height: 16px;
+left: 1311px;
+top: 495px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #A7A7A7;
+}
+.button-8{
+  position: absolute;
+width: 241px;
+height: 30px;
+left: 1312px;
+top: 521px;
+}
+h4{
+  position: absolute;
+width: 129px;
+height: 35px;
+left: 1704px;
+top: 160px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 44px;
+
+color: #000000;
+}
+p34{
+  position: absolute;
+width: 131px;
+height: 21px;
+left: 1704px;
+top: 260px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+p35{
+  position: absolute;
+width: 242px;
+height: 17px;
+left: 1704px;
+top: 289px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+
+color: #000000;
+}
+p36{
+  position: absolute;
+width: 221px;
+height: 20px;
+left: 1703px;
+top: 311px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #A7A7A7;
+}
+p37{
+  position: absolute;
+width: 148px;
+height: 16px;
+left: 1703px;
+top: 326px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #A7A7A7;
+}
+.button-9{
+  position: absolute;
+width: 241px;
+height: 30px;
+left: 1704px;
+top: 350px;
+
+}
+.line-8{
+  position: absolute;
+width: 242px;
+height: 0px;
+left: 1704px;
+top: 406px;
+
+border: 1px solid #000000;
+}
+p38{
+  position: absolute;
+width: 131px;
+height: 21px;
+left: 1704px;
+top: 428px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+p39{
+  position: absolute;
+width: 242px;
+height: 17px;
+left: 1704px;
+top: 457px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+
+color: #000000;
+}
+p40{
+  position: absolute;
+width: 221px;
+height: 20px;
+left: 1703px;
+top: 480px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #A7A7A7;
+}
+p41{
+  position: absolute;
+width: 148px;
+height: 16px;
+left: 1703px;
+top: 495px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #A7A7A7;
+}
+.button-10{
+  position: absolute;
+width: 241px;
+height: 30px;
+left: 1704px;
+top: 521px;
+}
+p42{
+  position: absolute;
+width: 131px;
+height: 21px;
+left: 2096px;
+top: 260px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+p43{
+  position: absolute;
+width: 242px;
+height: 17px;
+left: 2096px;
+top: 289px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+
+color: #000000;
+}
+p44{
+  position: absolute;
+width: 221px;
+height: 20px;
+left: 2095px;
+top: 311px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #A7A7A7;
+}
+p45{
+  position: absolute;
+  width: 148px;
+  height: 16px;
+  left: 2096px;
+  top: 326px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #A7A7A7;
+}
+.button-11{
+  position: absolute;
+width: 241px;
+height: 30px;
+left: 2096px;
+top: 350px;
+}
+.line-10{
+  position: absolute;
+width: 242px;
+height: 0px;
+left: 2096px;
+top: 406px;
+
+border: 1px solid #000000;
+}
+p46{
+  position: absolute;
+  width: 131px;
+  height: 21px;
+  left: 2096px;
+  top: 428px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
+p47{
+  position: absolute;
+  width: 242px;
+  height: 17px;
+  left: 2096px;
+  top: 457px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+
+
+  color: #000000;
+}
+p48{
+  position: absolute;
+  width: 221px;
+  height: 20px;
+  left: 2095px;
+  top: 480px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #A7A7A7;
+}
+p49{
+  position: absolute;
+  width: 148px;
+  height: 16px;
+  left: 2096px;
+  top: 495px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #A7A7A7;
+}
+.button-12{
+  position: absolute;
+width: 241px;
+height: 30px;
+left: 2096px;
+top: 521px;
+
+}
+.line-11{
+  position: absolute;
+width: 242px;
+height: 0px;
+left: 1312px;
+top: 241px;
+
+border: 1px solid #000000;
+}
